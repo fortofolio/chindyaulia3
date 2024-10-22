@@ -33,6 +33,6 @@ footer {
 footer a.model {
   color: #C8A2C8;
 }
-footer a.frank {
+footer a#frank {
   color: crimson;
 }
